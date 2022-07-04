@@ -1,4 +1,4 @@
-### Hi there 👋🏼👋🏼
+### नमस्ते | ನಮಸ್ಕಾರ | Hey there👋🏼 
 
 My name is Manoj M Mallya. I'm a CSE Junior at MIT, Manipal.
 
