@@ -1,5 +1,5 @@
 <h3 align="left">
-    नमस्ते | ನಮಸ್ಕಾರ | Hey there
+    <b> नमस्ते  |  ನಮಸ್ಕಾರ  |  Hey there </b>
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
