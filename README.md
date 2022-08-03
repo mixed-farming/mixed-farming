@@ -1,10 +1,4 @@
-<h3 align="left">
-    <b> नमस्ते  |  ನಮಸ್ಕಾರ  |  Hey there </b>
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-</h3>
+### नमस्ते  |  ನಮಸ್ಕಾರ  | Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 My name is Manoj M Mallya. I'm a CSE Junior at MIT, Manipal.
 
