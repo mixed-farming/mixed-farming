@@ -2,7 +2,7 @@
 
 My name is Manoj M Mallya. I'm a CSE Junior at MIT, Manipal.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=violet&right_color=orange) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mixed-farming.visitor-badge&left_color=violet&right_color=orange) 
 
 <!--
 **mixed-farming/mixed-farming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
