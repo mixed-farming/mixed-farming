@@ -1,6 +1,6 @@
 ### नमस्ते  |  ನಮಸ್ಕಾರ  | Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
 
-<p  align="center"><img src="" width="300" height="250" align ="center">
+<p  align="center"><img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="300" height="250" align ="center">
 
 
 I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid reader who loves to learn things as fast as possible. I am a self-motivated student having a can-do attitude and like working in challenging and dynamic environments. I aspire for a competitive position in a professional organization where I can enhance my skills and look forward to do tasks that help to prove the best of my ability.
