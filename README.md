@@ -5,7 +5,7 @@ My name is Manoj M Mallya. I'm a CSE Junior at MIT, Manipal.
 ### Profile Statistics
 </br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-LavaHawk0123)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming)
 
 ![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=mixed-farming&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 ![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=mixed-farming&hide=TeX&layout=compact&theme=blue-green)
