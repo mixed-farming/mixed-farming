@@ -2,13 +2,14 @@
 
 My name is Manoj M Mallya. I'm a CSE Junior at MIT, Manipal.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mixed-farming.visitor-badge&left_color=violet&right_color=orange) 
+### Profile Statistics
+</br>
 
-<p> 
-  
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-LavaHawk0123)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact)](https://github.com/mixed-farming/github-readme-stats)
+![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=mixed-farming&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=mixed-farming&hide=TeX&layout=compact&theme=blue-green)
+
 
 <!--
 **mixed-farming/mixed-farming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
