@@ -12,8 +12,8 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 
 ![Github Statistics](https://github-readme-stats-drab-delta.vercel.app/api?username=mixed-farming&count_private=true&show_icons=true&include_all_commits=true&theme=radical)  
 
-<!-- ![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=mixed-farming&hide=TeX&layout=compact&theme=blue-green) -->
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+![Top Languages](https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=mixed-farming&hide=TeX&layout=compact&theme=blue-green)
+<!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
 
  <a href="https://github.com/mixed-farming/github-readme-activity-graph"><img alt="Manoj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mixed-farming&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
