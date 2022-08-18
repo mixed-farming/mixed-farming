@@ -1,4 +1,4 @@
-### नमस्ते  |  ನಮಸ್ಕಾರ  | Hey there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="40" width="40" />
+### नमस्ते  |  ನಮಸ್ಕಾರ  | Hey there <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="40" width="40" />
 
 <br><br>
 <p  align="center"><img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="300" height="250" align ="center">
