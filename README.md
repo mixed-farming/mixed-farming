@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  ** Hey there  |  नमस्ते  |  ನಮಸ್ಕಾರ **  <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="50" width="50" /> 
+ Hey there  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="50" width="50" /> 
 </h1>
 
 <!-- wave hand gif : https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
