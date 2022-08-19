@@ -23,7 +23,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
   <img width="50%" src="https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=mixed-farming&langs_count=7&layout=compact&theme=blue-green" alt="Most used languages" />
 </p>
 
-<p><iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe></p>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
 
 
 
