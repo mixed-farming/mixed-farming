@@ -20,7 +20,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 </p>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=blue-green&langs_count=9" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=blue-green&langs_count=10" />
 </p>
 
 
