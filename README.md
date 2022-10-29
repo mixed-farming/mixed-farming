@@ -10,6 +10,7 @@
 
 I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid reader who loves to learn things as fast as possible. I am a self-motivated student having a can-do attitude and like working in challenging and dynamic environments. I aspire for a competitive position in a professional organization where I can enhance my skills and look forward to do tasks that help to prove the best of my ability.
 
+---
 
 ### Profile Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming)
