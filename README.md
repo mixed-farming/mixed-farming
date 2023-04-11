@@ -25,7 +25,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 <!-- </p> -->
 
 <!-- <p align="center"> -->
- <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=blue-green&langs_count=10" />
+ <img src="https://github-readme-stats-sigma-eight.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=blue-green&langs_count=10" />
 <!-- </p> -->
 
 <!--  <a href="https://github.com/mixed-farming/github-readme-activity-graph"><img alt="Manoj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mixed-farming&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
