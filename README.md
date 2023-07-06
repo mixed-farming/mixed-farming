@@ -21,9 +21,9 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 <br>
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&theme=dracula" alt="Manoj Mallya's GitHub Stats" /><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=dracula&langs_count=10" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixed-farming&theme=dracula" alt="Manoj Mallya's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&theme=dark" alt="Manoj Mallya's GitHub Stats" /><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=dark&langs_count=10" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixed-farming&theme=dark" alt="Manoj Mallya's GitHub Stats" /><br>
 </h1>
   
 
