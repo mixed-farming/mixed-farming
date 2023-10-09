@@ -13,6 +13,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 ---
  
 [![@manoj7's Holopin board](https://holopin.io/api/user/board?user=manoj7)](https://holopin.io/@manoj7)
+[![An image of @manoj7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manoj7)](https://holopin.io/@manoj7)
 
 ---
 
