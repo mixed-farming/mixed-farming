@@ -22,9 +22,9 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming) <br>
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&theme=onedark" alt="Manoj Mallya's GitHub Stats" /><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=onedark&langs_count=10" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixed-farming&theme=onedark" alt="Manoj Mallya's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&theme=synthwave" alt="Manoj Mallya's GitHub Stats" /><br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixed-farming&layout=compact&theme=synthwave&langs_count=10" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mixed-farming&theme=synthwave" alt="Manoj Mallya's GitHub Stats" /><br>
 </h1>
   
 
