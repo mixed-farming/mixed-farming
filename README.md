@@ -19,7 +19,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 
 <h1 align="center"> Profile Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/> </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=fc9d03&style=plastic) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=fcb103&style=plastic) <br>
 
 <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Manoj Mallya's GitHub Stats" /><br>
