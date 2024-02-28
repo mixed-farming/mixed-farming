@@ -17,7 +17,7 @@ I'm Manoj M Mallya, a CSE Junior at MIT Manipal. I'm tech enthusiast and an avid
 
 ---
 
-<h1 align="center"> Profile Statistics <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmariaraqueludes.wixsite.com%2Flogicmatic%2Funidad-4&psig=AOvVaw0dogI3vpuFg9YXjfQrYq4R&ust=1709208309069000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKC-yqH_zYQDFQAAAAAdAAAAABBX" width="35"/> </h1>
+<h1 align="center"> Profile Statistics <img src="https://static.wixstatic.com/media/952b89_15788471bd4d45cc814470003cfe62b2~mv2.gif" width="35"/> </h1>
 
 
 
