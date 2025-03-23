@@ -1,4 +1,4 @@
-![I'MVeryHappyTodayBenaiahWarrilowGIF](https://github.com/user-attachments/assets/675e2567-6f51-4c97-b58f-5da002737649)<h1 align="center"> 
+<h1 align="center"> 
  Greetings  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="50" width="50" /> 
 </h1>
 
