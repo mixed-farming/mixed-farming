@@ -13,14 +13,37 @@
 <!--[![@manoj7's Holopin board](https://holopin.io/api/user/board?user=manoj7)](https://holopin.io/@manoj7) -->
 <!-- [![An image of @manoj7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manoj7)](https://holopin.io/@manoj7) -->
 
----
+<!-- --- -->
 
 <!-- <h1 align="center"> Profile Statistics <img src="https://static.wixstatic.com/media/952b89_15788471bd4d45cc814470003cfe62b2~mv2.gif" width="35"/> </h1> -->
 
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge) <br> -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <p>I'm Manoj M Mallya</p>
+  <p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" />
+  </p>
+</div>
+
+## 
+
+🔹 **Program Associate** at **Wells Fargo**  
+🔹 **Tech Stack:** Java | .NET  
+🔹 **Alumnus:** MIT, Manipal (Class of 2024)  
+
+### 💼 Past Experience  
+- **CGI** – Software Development Intern (2 months)  
+- **Blackfrog Technologies Pvt Ltd** – Software Development Intern (5 months)  
+
+<!-- ### 🚀 About Me  
+Passionate about building scalable solutions and exploring new technologies. Always eager to learn and contribute to impactful projects.   -->
+
+<!-- 📫 **Let's Connect!**  
+[LinkedIn](#) | [GitHub](#) | [Email](#)   -->
+
+<h1></h1>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&rank_icon=github&theme=vision-friendly-dark" alt="Manoj's GitHub Stats" /><br>
