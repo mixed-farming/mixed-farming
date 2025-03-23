@@ -24,7 +24,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
 
 
-### I'm Manoj
+My name is Manoj M Mallya...
 
 - 💼 I’m currently working as a **Program Associate at Wells Fargo**
 - 🔭 I'm involved in Java, .NET, and things I can’t talk about… yet
