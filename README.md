@@ -27,9 +27,12 @@
 ### I'm Manoj M Mallya
 
 - 🔭 I’m currently working as a **Program Associate at Wells Fargo**
-- 📫 How to reach me: **[Linktree](https://linktr.ee/manojmallya)**  
+- 📫 How to reach me: **[Linktree](https://linktr.ee/manojmallya)**
+- 🌱 I’m currently learning Java, .NET, and things I can’t talk about… yet
+- 💬 Ask me your trickiest riddles - I love a challenge!
+- ⚡ Fun fact: I once defeated Arjun Nambisan in arm wrestling!
 
-<!-- - 🌱 I’m currently learning 
+<!-- 
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with
 - 💬 Ask me about  
