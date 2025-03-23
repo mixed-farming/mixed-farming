@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working as a **Program Associate at Wells Fargo**
 - 🌱 I’m currently working on Java, .NET, and things I can’t talk about… yet
-- 🌟 Hobbies: chess, badminton, yoga, poetry writing
+- 🌟 Hobbies: Chess, badminton, yoga, poetry writing, and green gardening
 - 💬 Ask me your trickiest riddles - I love a challenge!
 - 📫 How to reach me: **[Linktree](https://linktr.ee/manojmallya)**
 - ⚡ Fun fact: I once defeated Arjun Nambisan in arm wrestling!
