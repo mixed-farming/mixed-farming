@@ -23,35 +23,19 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
 
-<table>
-  <tr>
-    <td align="right">
-      <p align="right"> 
-        <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" />
-      </p>
-    </td>
-    <td align="left">
-      <p>Hi</p>
-    </td>
-  </tr>
-</table>
 
 ### I'm Manoj M Mallya
 
+- 🔭 I’m currently working as a **Program Associate at Wells Fargo**
+- 📫 How to reach me: **[LinkTree](https://linktr.ee/manojmallya) **  
 
-🔹 **Program Associate** at **Wells Fargo**  
-🔹 **Tech Stack:** Java | .NET  
-🔹 **Alumnus:** MIT, Manipal (Class of 2024)  
+<!-- - 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with
+- 💬 Ask me about  
+- 😄 Pronouns:   
+- ⚡ Fun fact: -->
 
-### 💼 Past Experience  
-- **CGI** – Software Development Intern (2 months)  
-- **Blackfrog Technologies Pvt Ltd** – Software Development Intern (5 months)  
-
-### 🚀 About Me  
-Passionate about building scalable solutions and exploring new technologies. Always eager to learn and contribute to impactful projects.  
-
-📫 **Let's Connect!**  
-[LinkedIn](#) | [GitHub](#) | [Email](#)  
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&rank_icon=github&theme=vision-friendly-dark" alt="Manoj's GitHub Stats" /><br>
