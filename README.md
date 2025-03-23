@@ -23,8 +23,21 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
 
+<table>
+  <tr>
+    <td align="right">
+      <p align="right"> 
+        <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" />
+      </p>
+    </td>
+    <td align="left">
+      <p>Hi</p>
+    </td>
+  </tr>
+</table>
 
 ### I'm Manoj M Mallya
+
 
 🔹 **Program Associate** at **Wells Fargo**  
 🔹 **Tech Stack:** Java | .NET  
@@ -39,8 +52,6 @@ Passionate about building scalable solutions and exploring new technologies. Alw
 
 📫 **Let's Connect!**  
 [LinkedIn](#) | [GitHub](#) | [Email](#)  
-
-<h1></h1>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mixed-farming&show_icons=true&rank_icon=github&theme=vision-friendly-dark" alt="Manoj's GitHub Stats" /><br>
