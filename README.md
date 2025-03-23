@@ -20,14 +20,11 @@
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge) <br> -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>I'm Manoj M Mallya</p>
-  <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" />
-  </p>
-</div>
 
-## 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
+
+
+## I'm Manoj M Mallya
 
 🔹 **Program Associate** at **Wells Fargo**  
 🔹 **Tech Stack:** Java | .NET  
@@ -37,11 +34,11 @@
 - **CGI** – Software Development Intern (2 months)  
 - **Blackfrog Technologies Pvt Ltd** – Software Development Intern (5 months)  
 
-<!-- ### 🚀 About Me  
-Passionate about building scalable solutions and exploring new technologies. Always eager to learn and contribute to impactful projects.   -->
+### 🚀 About Me  
+Passionate about building scalable solutions and exploring new technologies. Always eager to learn and contribute to impactful projects.  
 
-<!-- 📫 **Let's Connect!**  
-[LinkedIn](#) | [GitHub](#) | [Email](#)   -->
+📫 **Let's Connect!**  
+[LinkedIn](#) | [GitHub](#) | [Email](#)  
 
 <h1></h1>
 
