@@ -26,9 +26,9 @@
 
 ### I'm Manoj M Mallya
 
-- 🔭 I’m currently working as a **Program Associate at Wells Fargo**
-- 🌱 I’m currently working on Java, .NET, and things I can’t talk about… yet
-- 🌟 Hobbies: Chess, badminton, yoga, poetry writing, and green gardening
+- 💼 I’m currently working as a **Program Associate at Wells Fargo**
+- 🔭 I’m currently working on Java, .NET, and things I can’t talk about… yet
+- 🌱 Hobbies: Chess, badminton, yoga, poetry writing, and green gardening
 - 💬 Ask me your trickiest riddle!
 - 📫 How to reach me: **[Linktree](https://linktr.ee/manojmallya)**
 - ⚡ Fun fact: I once defeated Arjun Nambisan in arm wrestling!
