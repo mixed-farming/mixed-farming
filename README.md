@@ -24,10 +24,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=your-github-mixed-farming&color=f09d02&style=for-the-badge" alt="mixed-farming" /> </p> 
 
 
-### I'm Manoj M Mallya
+### I'm Manoj
 
 - 💼 I’m currently working as a **Program Associate at Wells Fargo**
-- 🔭 I’m currently working on Java, .NET, and things I can’t talk about… yet
+- 🔭 I'm involved in Java, .NET, and things I can’t talk about… yet
 - 🌱 Hobbies: Chess, badminton, yoga, poetry writing, and green gardening
 - 💬 Ask me your trickiest riddle!
 - 📫 How to reach me: **[Linktree](https://linktr.ee/manojmallya)**
