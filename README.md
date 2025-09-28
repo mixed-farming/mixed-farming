@@ -26,7 +26,7 @@
 
 My name is Manoj M Mallya...
 
-- 💼 I’m currently working as a **Program Associate at Wells Fargo**
+- 💼 I’m currently working as a **Software Engineer at Wells Fargo**
 - 🔭 I'm involved in Java, .NET, and things I can’t talk about… yet
 - 🌱 Hobbies: Chess, badminton, yoga, poetry writing, and green gardening
 - 💬 Ask me your trickiest riddle!
